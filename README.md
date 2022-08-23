@@ -27,6 +27,7 @@
 ### Setup
 <!-- .env requirements (where applicable) -->
 - requirements.txt
+- .gitignore populated using [this](https://www.toptal.com/developers/gitignore/api/python,windows) template.
 <!-- 
 - PORT - Port Number
 - DATABASE_URL - URL to the running Postgres instance/db -->
